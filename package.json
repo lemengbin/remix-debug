@@ -23,7 +23,7 @@
     "fast-async": "^6.1.2",
     "notify-error": "^1.2.0",
     "npm-run-all": "^4.1.2",
-    "remix-lib": "0.3.13-jsvm2.5.0-2",
+    "remix-lib": "git+https://github.com/lemengbin/remix-lib.git#0.3.13-jsvm2.5.0-2",
     "solc": "^0.5.0"
   },
   "devDependencies": {
